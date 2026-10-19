@@ -1,0 +1,6 @@
+chromadb
+pillow
+pillow-heif
+requests
+reverse_geocoder
+pycountry
